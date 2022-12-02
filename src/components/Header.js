@@ -1,7 +1,9 @@
+import HighlightIcon from '@mui/icons-material/Highlight';
+
 function Header() {
   return (
     <header>
-      <h1>keeper</h1>
+      <h1><HighlightIcon />keeper</h1>
     </header>
   );
 }
